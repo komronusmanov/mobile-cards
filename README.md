@@ -1,4 +1,4 @@
-UdaciCards Quiz Project:
+Mobile Cards Quiz Project:
 
 To Install this project and launch through the emulator just 'npm install' it
 and 'npm start' through Node.
